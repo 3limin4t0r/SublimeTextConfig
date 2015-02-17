@@ -1,0 +1,22 @@
+{
+  "color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+
+  "auto_complete": true,
+  "tab_completion": true,
+  "auto_complete_delay": 50,
+  "auto_complete_selector": "source - comment",
+
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "ensure_newline_at_eof_on_save": true,
+  "trim_trailing_white_space_on_save": true,
+
+  "rulers": [72, 80 ],
+  "highlight_line": true,
+
+  "ignored_packages": [],
+  "vintage_start_in_command_mode": true,
+
+  // Require the installation of "Theme - Soda"
+  "theme": "Soda Light 3.sublime-theme"
+}
