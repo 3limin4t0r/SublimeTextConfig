@@ -1,5 +1,13 @@
 {
   "color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+  
+  "font_face": "Consolas",
+  // If Consolas is not installed
+  // Make sure Inconsolata is installed
+  // "font_face": "Inconsolata"
+  "font_size": 10,
+  "line_padding_top": 2,
+  "line_padding_bottom": 2,
 
   "auto_complete": true,
   "tab_completion": true,
